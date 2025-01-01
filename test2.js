@@ -1,2 +1,2 @@
-console.log("shubya")
-console.log("shubya")
+console.log("hi")
+console.log("bye")
